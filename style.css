@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+  justify-content: space-between;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  margin: 2%;
+}
+
+  #btn1{
+    border: 1px solid #DBDBDB ;
+    width: 10%;
+    cursor: pointer;
+}
